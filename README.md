@@ -1,13 +1,9 @@
 # Ethiopian Smallholder Crop-Yield Challenge – Team Submission
 
-## Team
-- Yadi Gajea
+## Name
 - Merhun Markos
-- Dawit Workneh
-- Eshetu Assefa
-
 ## One-paragraph summary
-We cleaned and joined three messy real-world tables (plot survey, regional weather, market prices), engineered weather-derived and interaction features, performed a full exploratory analysis (all 14 B tasks), generated the complete 12-figure visualization pack, and trained a HistGradientBoosting model that strictly respects leakage rules (price never used as a feature, train-only statistics). The final model achieves competitive validation RMSE and is served by a Streamlit demo that automatically looks up weather and price.
+I cleaned and joined three messy real-world tables (plot survey, regional weather, market prices), engineered weather-derived and interaction features, performed a full exploratory analysis (all 14 B tasks), generated the complete 12-figure visualization pack, and trained a HistGradientBoosting model that strictly respects leakage rules (price never used as a feature, train-only statistics). The final model achieves competitive validation RMSE and is served by a Streamlit demo that automatically looks up weather and price.
 
 ## Environment
 - Python 3.10+
