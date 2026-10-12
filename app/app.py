@@ -3,7 +3,8 @@
 # app.py
 # Ethiopian Smallholder Crop-Yield Predictor
 # =============================================================================
-
+import concurrent.futures.process
+import concurrent.futures.thread   
 import streamlit as st
 import pandas as pd
 import numpy as np
